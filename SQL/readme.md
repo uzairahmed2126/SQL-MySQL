@@ -48,3 +48,7 @@ CREATE INDEX - creates an index (search key)
 ```SQL
 DROP INDEX - deletes an index
 ```
+# Go and see MySQL
+<h5 style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif">
+</h5>
+Click and see about MySQL[MySQL](../MySQL/mysql.md)
