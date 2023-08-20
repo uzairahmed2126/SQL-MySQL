@@ -18,4 +18,4 @@
 <h5 style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif">
 </h5>
 
-###### Go and see Some of The Most Important SQL Commands [SQL](./MySQL/mysql.md)
+###### Go and see Some of The Most Important SQL Commands [SQL](./SQL/sql.md)
